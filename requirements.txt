@@ -1,0 +1,2 @@
+# Requires: meta-paradox
+# (Not available on PyPI)
